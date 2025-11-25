@@ -71,7 +71,7 @@ input {
 }
 
 .list {
-  background-color: #5a3e2b;
+  background-color: #ffebb3;
   color: #ffebb3;
   padding: 4rem 0;
 
@@ -112,7 +112,7 @@ input {
 input[type="checkbox"] {
   height: 2rem;
   width: 2rem;
-  accent-color: #e5771f;
+  accent-color: #e7d39ccc;
 }
 
 .list li button {
