@@ -57,7 +57,7 @@ input {
   background-color: #ffebb3;
   color: #5a3e2b;
   font-family: inherit;
-  border: none;
+  border: 1;
   border-radius: 10rem;
   padding: 1.2rem 3.2rem;
   font-weight: 700;
@@ -72,7 +72,7 @@ input {
 
 .list {
   background-color: #ffebb3;
-  color: #ffebb3;
+  color: #000000;
   padding: 4rem 0;
 
   display: flex;
